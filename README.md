@@ -1,1 +1,1 @@
-# craft-it-image-classification-model-
+# craft-it-object-detection-model
